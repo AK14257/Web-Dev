@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+}
+
+#image{
+margin-top: 50px;
+margin-left: 450px;
+margin-right: 425px;
+align-items: center;
+border: 5px solid white;
+   
+}
+
+#heading1{
+    font-family: Regular Libre Baskerville,cursive ;
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+
+}
+
+#heading2{
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
+
+
+
+
